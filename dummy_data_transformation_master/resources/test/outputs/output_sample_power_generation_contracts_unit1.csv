@@ -1,0 +1,16 @@
+plant_name,plant_type,number_of_units,contracted_capacity_MW,technical_minimum_capacity_MW,must_run_status,variable_cost_inr_per_kwh,ramp_rate_mw_per_min
+Faxxxxa,dummy1,9,212,90,1-30,2.99,70
+Kaxxxx1,dummy2,3,121,50,30-90,2.73,39
+TaxxxxS,dummy3,5,460,200,20-40,1.81,78
+Baxxxx2,dummy3,3,184,70,60-80,2.60,15
+Daxxxxi,dummy2,6,941,400,15-45,1.16,101
+Taxxxx2,dummy2,2,189,70,30-75,1.79,64
+Texxxxa,dummy2,1,104,40,-,1.72,29
+Taxxxxa,dummy2,9,43,20,-,2.25,10
+Inxxxxi,dummy1,10,600,200,-,0.94,100
+Baxxxxa,dummy1,6,510,200,-,0.68,81
+Rexxxxi,dummy1,6,250,100,-,1.31,20
+Buxxxxa,dummy2,5,276,100,-,1.26,50
+IBxxxxS,dummy2,5,420,180,10-60,1.62,124
+GxxxxxX,dummy3,7,262,150,50-80,1.74,22
+Vexxxxa,dummy3,9,600,270,25-65,1.92,103
