@@ -21,7 +21,7 @@ with open("/Users/nirmal/PycharmProjects/toy_problems/dummy_data_transformation_
 with open("/Users/nirmal/PycharmProjects/toy_problems/dummy_data_transformation_master/resources/test/outputs/output_sample_power_generation_contracts_unit1.csv") as file2:
     print(file2.read())
 
-
+print("nirmal")
 
 
 
